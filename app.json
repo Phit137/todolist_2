@@ -7,6 +7,9 @@
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
+    "experiments": {
+      "baseUrl": "/expo-gh-pages"
+    },
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
